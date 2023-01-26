@@ -37,8 +37,6 @@ The processing time is not linear but exponential because of the big dataset. He
 
 Thousands of colors in the photo were grouped and compressed - dark, bright, dim, and vibrant. Accordingly, the image style amazingly changed - just like the filters in Snapseed, Instagram, and other photo-editing apps!
 
-<img src="pic.jpeg" width="50%" height="50%" />
-
-![alt text](https://github.com/kellychin79/image_clustering/blob/main/output.png?raw=true) 
+<img src="https://github.com/kellychin79/image_clustering/blob/main/output.png" width="50%" height="50%" />
 
 
